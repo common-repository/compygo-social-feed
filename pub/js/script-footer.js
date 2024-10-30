@@ -1,0 +1,1 @@
+jQuery(document).ready((function(u){var e=function(u){document.querySelectorAll(".cgusf__wrapper").forEach((function(e){jQuery(e).cgusfViewBuilder(u)}))};e(""),jQuery("body").on("cgusf-iframe-updated",(function(u,r){e(r)}))}));

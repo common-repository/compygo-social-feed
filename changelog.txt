@@ -1,0 +1,37 @@
+== Changelog ==
+### 2.0.0
+* Add preminum features like a lightbox and infinity scroll and load more support
+
+### 1.1.2
+* Add Gutenberg block editor
+
+### 1.1.1
+* Migration fix was applied
+
+### 1.1.0
+* The cache system was completely refactored
+* Youtube support was added
+
+= 1.0.6 =
+* Facebook embeded video was resolved
+
+= 1.0.5 =
+* Multi-source support was added
+* Facebook and Instagram locales are taken into account when posts are loaded from a source
+* Minor bugs were resolved
+
+= 1.0.4 =
+* Russian language was added
+* Minor bugs were resolved
+
+= 1.0.3 =
+* Instagram support was added
+
+= 1.0.2 =
+* A slider layout was added.
+
+= 1.0.1 =
+* Common fixes were applied to use Wordpress best practices
+
+= 1.0.0 =
+* Initial version
